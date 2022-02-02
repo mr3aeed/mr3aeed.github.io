@@ -50,7 +50,7 @@ linkedin_username: saeed-khodaparast
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Saeed. X
+  Hi, I'm Saeed, a recently graduated masters student from York University. My interests lie broadly in the area of machine learning and data science. I have experience working with various ML problems and essential tools like Tensorflow, Keras, and Scikit-Learn.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
