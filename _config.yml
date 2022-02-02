@@ -19,7 +19,7 @@ darkmode: false
 
 github_username:  mr3aeed
 instagram_username: mr.3aeed
-linkedin_username: saeed-khodaparast
+linkedin_username: saeed_khodaparast
 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -32,10 +32,10 @@ linkedin_username: saeed-khodaparast
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
