@@ -51,8 +51,6 @@ linkedin_username: saeed_khodaparast
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Saeed. X
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
