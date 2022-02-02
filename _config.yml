@@ -97,7 +97,7 @@ content:
         sub_title: BSc Electrical Engineering, Minor Computer Engineering
 	description: | # this will include new lines to allow paragraphs
           
-	- layout: left
+      - layout: left
         		title: University of Tehran
         		caption: 2014 - 2019
         		sub_title: BSc Electrical Engineering, Minor Computer Engineering
