@@ -95,7 +95,7 @@ content:
         title: York University
         caption: 2019 - 2021
         sub_title: MSc in Computer Engineering
-	    description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
 In my master's program, I focused on machine learning area and took courses to deepen my understanding in machine learning and data science. In my thesis, I applied deep reinforcement learning to the problem of data collection by UAVs in the IoT networks.
           
       - layout: left
