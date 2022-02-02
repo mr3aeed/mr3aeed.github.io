@@ -110,6 +110,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and science, I do photography wheneveer I get a chance (checkout my instagram). I love exploring the nature and hiking, as an outdoor kind of person :)
+
       ![freedom](images/insta.jpeg "freedom")
 
 # Footer
