@@ -96,15 +96,14 @@ content:
         caption: 2019 - 2021
         sub_title: MSc in Computer Engineering
 	description: | # this will include new lines to allow paragraphs
-
-		In my master's program, I focused on machine learning area and took courses to deepen my understanding in machine learning and data science. In my thesis, I applied deep reinforcement learning to the problem of data collection by UAVs in the IoT networks.
+	  In my master's program, I focused on machine learning area and took courses to deepen my understanding in machine learning and data science. In my thesis, I applied deep reinforcement learning to the problem of data collection by UAVs in the IoT networks.
           
       - layout: left
         	title: University of Tehran
         	caption: 2014 - 2019
         	sub_title: BSc Electrical Engineering, Minor Computer Engineering
 	description: | # this will include new lines to allow paragraphs
-		I started my undergrad studies in electrical engineering, which helped me to strenghten my math and engineering foundations. Then, to become more familiar with machine learning, I took two graduate courses and a minor in computer engineering. In my BSc research, I used auto encoders to predict users' locations in an indoor localization problem.
+	  I started my undergrad studies in electrical engineering, which helped me to strenghten my math and engineering foundations. Then, to become more familiar with machine learning, I took two graduate courses and a minor in computer engineering. In my BSc research, I used auto encoders to predict users' locations in an indoor localization problem.
 
 #         =
 #        quote: >
