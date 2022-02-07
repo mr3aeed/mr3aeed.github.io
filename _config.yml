@@ -52,24 +52,24 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm machine learning engineer with over 4 years of experience in implementing and analyzing machine learning and deep learning models. I have a solid understanding of mathematics and statistics, and I am interested in the applications and challenges of machine learning in real-world problems.
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Deep Reinforcement Learning Based Energy Efficient Multi-UAV Data Collection for IoT Networks
-        # link: github.com/sproogen
-        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          My Thesis
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Deep Reinforcement Learning Based Energy Efficient Multi-UAV Data Collection for IoT Networks
+  #       link: github.com/sproogen
+  #       link_text: Project Website
+  #      additional_links:
+  #        - title:  sproogen/modern-resume-theme
+  #          icon: fab fa-github
+  #          url: github.com/sproogen/modern-resume-theme
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         My Thesis
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
