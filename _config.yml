@@ -66,8 +66,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           My Thesis
 
@@ -83,7 +83,8 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          I TAed multiple courses.
+          In my thesis, I designed an obstacle-constrained environment using Python to simulate the problem of sensor data collection by unmanned aerial vehicles (UAVs) in the IoT networks. 
+          I developed deep reinforcement learning models using Tensorflow to enable the UAV agents to fly safely towards the sensors and collection their data, leading to two publications and achieving 7\%  reduction in sensors energy consumption comparing to fixed-power baseline 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
