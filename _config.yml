@@ -85,19 +85,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           In my thesis, I designed an obstacle-constrained environment using Python to simulate the problem of sensor data collection by unmanned aerial vehicles (UAVs) in the IoT networks. 
           I developed deep reinforcement learning models using Tensorflow to enable the UAV agents to fly safely towards the sensors and collection their data, leading to two publications and achieving 7% reduction in sensors energy consumption comparing to fixed-power baseline.
-          I was also a teaching assistant in multiple related courses: Introduction to Computer Science and Programming, Design and Analysis of Algorithms, and Software Design
+          I was also a teaching assistant in multiple related courses: Introduction to Computer Science and Programming, Design and Analysis of Algorithms, and Software Design.
       - layout: left
         title: Undergraduate Research and Teaching Assistant
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: University of Tehran
-        caption: September 2019 - Present
+        caption: June 2018 - May 2019
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          In my thesis, I designed an obstacle-constrained environment using Python to simulate the problem of sensor data collection by unmanned aerial vehicles (UAVs) in the IoT networks. 
-          I developed deep reinforcement learning models using Tensorflow to enable the UAV agents to fly safely towards the sensors and collection their data, leading to two publications and achieving 7%  reduction in sensors energy consumption comparing to fixed-power baseline 
-
+          I developed a framework for indoor localization of WiFi users using Auto-Encoders with mean localization error of 0.9 meter. As a teaching assistant, I ran tutorial classes on probability and statistics for the graduate course Pattern Recognition.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
