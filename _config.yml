@@ -51,7 +51,9 @@ linkedin_username: saeed-khodaparast
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm machine learning engineer with over 4 years of experience in implementing and analyzing machine learning and deep learning models. I have a solid understanding of mathematics and statistics, and I am interested in the applications and challenges of machine learning in real-world problems.
-  #  You can check out my full resume <a href="https://drive.google.com/file/d/1Bt6mezC_v-bOkoWQSdPbUXGefUv_8QkD/view?usp=sharing"> <mark>here</mark> </a>.
+  
+  
+#  You can check out my full resume <a href="https://drive.google.com/file/d/1Bt6mezC_v-bOkoWQSdPbUXGefUv_8QkD/view?usp=sharing"> <mark>here</mark> </a>.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
