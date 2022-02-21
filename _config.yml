@@ -78,7 +78,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Graduate Research and Teaching Assistant
+        title: Machine Learning Researcher and Teaching Assistant
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: York University
